@@ -1,2 +1,2 @@
 # Blog-Website
-Blog
+Janeika(JK) Blog
